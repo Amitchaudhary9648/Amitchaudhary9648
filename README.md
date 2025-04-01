@@ -2,7 +2,7 @@
 
 🚀 **Senior React Native Developer | Frontend Engineer | Mobile App Enthusiast**
 
-I am specialize in **React Native** development with 4+ years of experience in building high-performance mobile applications. Passionate about UI/UX, animations, and delivering seamless user experiences.
+I specialize in **React Native** development with 4+ years of experience in building high-performance mobile applications. Passionate about UI/UX, animations, and delivering seamless user experiences.
 
 ---
 
@@ -32,11 +32,16 @@ I am specialize in **React Native** development with 4+ years of experience in b
 
 ---
 
+## 📈 GitHub Stats
+![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitchaudhary9648&show_icons=true&theme=radical)
+
 ### 📫 Connect With Me
 - 🌐 **Portfolio**: [amitchaudhary9648.github.io/portfolio](https://amitchaudhary9648.github.io/portfolio/)
 - 💼 **LinkedIn**: [linkedin.com/in/amitchaudhary](https://www.linkedin.com/in/amitchaudhary)
 - 🏗️ **GitHub**: [github.com/amitchaudhary9648](https://github.com/amitchaudhary9648)
-- ✉️ **Email**: amit.dev64@gmail.com
+- 📷 **Instagram**: [instagram.com/amit_chaudhary_1999](https://www.instagram.com/amit_chaudhary_1999/?hl=en)
+- ✉️ **Email**: amit.chaudhary9648@gmail.com
+
 
 ---
 
